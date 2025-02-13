@@ -20,3 +20,8 @@ Este projeto é um **dashboard interativo** criado no Power BI para análise de 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 🚀 **Sinta-se à vontade para explorar e contribuir!**  
+
+## ⚠ Aviso sobre os dados  
+Os dados utilizados neste projeto são **100% fictícios** e foram gerados apenas para fins educacionais e demonstração das funcionalidades do Power BI.  
+Não representam informações reais de nenhuma empresa ou organização.
+
