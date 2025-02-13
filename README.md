@@ -1,16 +1,17 @@
-# 📊 Dashboard Comercial  
+# 📊 Dashboard de Comercial - Power BI  
 
-Este repositório contém um dashboard interativo desenvolvido em **Power BI** para análise Comercial.  
+Este projeto é um **dashboard interativo** criado no Power BI para análise de comercil. Ele fornece insights de forma clara e visual.  
+
+## 📌 Funcionalidades  
+✅ Indicadores-chave de performance (KPIs)  
+✅ Gráficos dinâmicos e interativos  
+✅ Filtros para segmentação avançada  
+✅ Análises comparativas e tendências 
 
 ## 🔗 Acesse o Dashboard  
 
 [Clique aqui para visualizar o Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiZWVlNDg5MWMtZTgwMS00MmRkLWEzOGYtNjRjZGM4NjRjMmViIiwidCI6IjE1YmNhMjYxLTgxOGItNDA4OS04MjM1LWMzYWE4MGU2MGI5MSJ9))  
 
-## 📌 Sobre o Dashboard  
-
-- 🔹 Desenvolvido com **Power BI, DAX, SQL e ETL**.  
-- 🔹 Inclui visualizações interativas de **Faturamento Total, Tickt méio, Quantidade Venddida e KPIs comercial**.  
-- 🔹 Otimizado para **tomada de decisão estratégica**.  
 
 ## 🛠️ Tecnologias Utilizadas  
 
